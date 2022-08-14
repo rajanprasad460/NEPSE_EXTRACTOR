@@ -1,6 +1,7 @@
 def extracttable(link): 
     # Scrap the html page into tables if exists 
     # Trail to run a simple Python code
+    # This module can work on other website as well, however, mainly prepared for Nepse Website [old]
 
     #The code starts form here
 
